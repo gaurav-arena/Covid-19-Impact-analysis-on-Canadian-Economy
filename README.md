@@ -1,0 +1,2 @@
+# Covid-19-Impact-analysis-on-Canadian-Economy
+This notebook is a an attempt to analyze the impact of the Covid-19 on Canada and it's economic factors like GDP, CPI and Workhours over the months by using the datasets produced by the Statistics Canada. Statistics Canada, the Canadian government agency commissioned with producing statistics to help better understand Canada, its population, resources, economy, society, and culture.
